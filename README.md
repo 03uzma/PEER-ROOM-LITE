@@ -2,7 +2,7 @@
 
 A lightweight peer-to-peer real-time communication app built with **React (Vite)**, **Socket.io**, and **WebRTC**. Users can join a room and exchange messages, media, and files directly, without any central server storing the data.
 
-🔗 Live: [PEER-ROOM-LITE](https://peer-room-lite.vercel.app/)
+
 
 ---
 
