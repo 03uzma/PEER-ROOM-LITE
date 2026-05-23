@@ -9,7 +9,7 @@ app.use(cors());
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: {
-    origin: ['https://peer-room-lite.vercel.app', 'http://localhost:3000']
+    origin: ['https://peer-room-lite.vercel.app', 'http://localhost:3000', 'http://localhost:5173'],
     methods: ['GET', 'POST']
   }
 });
